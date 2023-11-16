@@ -1,1 +1,54 @@
 /* Copy your CSS code from CodePen below this point */
+body {
+    font-family: Monospace;
+    width: 800px;
+    margin: auto;
+  }
+  .Fibonnacci-QM {
+    text-align: center;
+  }
+  h2 {
+    color: orange
+  }
+  h3{
+    color: red;
+  }
+  .top-of-page{
+    color:orange;
+  }
+  .math-favorite-image{
+    width: 200px;
+  }
+  .math-favorite-image-parent{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .media-logos{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    padding: 50px;
+  }
+  .top-of-page{
+    height: 300px;
+    background-image: url("https://drive.google.com/uc?export=view&id=1KVDapld513gDp4XOaLft0qfmeyxhszdV");
+    background-repeat: nonrepeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-bottom: 0px;
+    text-left: 0px;
+  }
+  h1{
+    
+  }
+  .nav-top .nav-list{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color: yellow;
+  }
+  .bottom {
+    text-align: center;
+  }
